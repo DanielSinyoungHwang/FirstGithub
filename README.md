@@ -21,7 +21,15 @@ In this Agreement, the following capitalized terms shall have the meanings below
 
 "Documentation" means any technical specifications and other specifications or documentation that SAMSUNG may make available or provide to Licensee relating to or for use in connection with the SDK.
 
-"Open Source Software" means any software or software component, module or package that contains, or is derived in any manner (in whole or in part) from, any software that is distributed as free software, open source software or similar licensing or distribution models, including, without limitation, software licensed or distributed under any of the following licenses or distribution models, or licenses or distribution models similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL); (b) the Artistic License (e.g., PERL); (c) the Mozilla Public License; (d) the Netscape Public License; (e) the Sun Community Source License (SCSL); (f) the Sun Industry Standards License (SISL); (g) the BSD License; and (h) the Apache License.
+"Open Source Software" means any software or software component, module or package that contains, or is derived in any manner (in whole or in part) from, any software that is distributed as free software, open source software or similar licensing or distribution models, including, without limitation, software licensed or distributed under any of the following licenses or distribution models, or licenses or distribution models similar to any of the following:
+- (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL)
+- (b) the Artistic License (e.g., PERL)
+- (c) the Mozilla Public License
+- (d) the Netscape Public License
+- (e) the Sun Community Source License (SCSL)
+- (f) the Sun Industry Standards License (SISL)
+- (g) the BSD License and
+- (h) the Apache License.
 
 "Personal Data" means information in any media provided by SAMSUNG to Licensee, or collected by Licensee on its own, that identifies or could reasonably be used to identify a natural person, including, without limitation: a person’s first and last name, home or other physical address, telephone number, fax number, email address or other online identifier, Social Security number or other third-party issued identifier (including, but not limited to, state identification number, driver’s license number, or passport number), biometric data, health information, credit card or other financial information (including bank account information), IP address and cookie information, or any other device-specific number or identifier.
 
@@ -40,15 +48,15 @@ In this Agreement, the following capitalized terms shall have the meanings below
 - (b) any software placed in the public domain and accessible to anyone without any specific license terms attached there to, or
 - (c) any software disclosed or distributed under a license that permits users to use, modify, improve or distribute such software and/or documentation and requires any or all of the following:
     - i. the making available of source code, object code and/or accompanying documentation of the software or any modifications to, or derivatives of, such software and/or documentation; or
--     ii. the granting of the right to distribute, use, create modifications to, or create derivative works from, such software and/or documentation at no charge or on a royalty-free basis.
-4.	(d) any software licensed under the Academic Free License, Apache Software License, the Artistic License (e.g., PERL); Berkeley Software Distribution License; Eclipse Public License; GNU’s General Public License; GNU’s Lesser/Library GPL; MIT License; the Mozilla Public License; the Python License, the Sleepy Cat license, the Sun Community Source License; or licenses approved by the Free Software Foundation or the Open Source Initiative.
+    - ii. the granting of the right to distribute, use, create modifications to, or create derivative works from, such software and/or documentation at no charge or on a royalty-free basis.
+- (d) any software licensed under the Academic Free License, Apache Software License, the Artistic License (e.g., PERL); Berkeley Software Distribution License; Eclipse Public License; GNU’s General Public License; GNU’s Lesser/Library GPL; MIT License; the Mozilla Public License; the Python License, the Sleepy Cat license, the Sun Community Source License; or licenses approved by the Free Software Foundation or the Open Source Initiative.
 
 "Updates" means, in respect of the "SDK or any part of the "SDK, bug fixes, enhancements, modifications, new releases, new versions, supplements, updates or, upgrades.
-1.	Term
+1. Term
 This Agreement is effective upon Licensee’s acceptance, by clicking on the “I AGREE” button or signing the signature page of this Agreement, and continues to be effective until terminated by Licensee or SAMSUNG in accordance with Clause 10 (“Term”).
-2.	Relationship with SAMSUNG
+2. Relationship with SAMSUNG
 Licensee understands and agrees that by accepting this SDK, no legal partnership or agency relationship is created between Licensee and SAMSUNG. Neither Licensee nor SAMSUNG is a partner, an agent or has any authority to bind the other. Licensee agrees not to represent otherwise.
-3.	Grant of SDK License and Restrictions
+3. Grant of SDK License and Restrictions
 1.	3.1
 Subject to the provisions of this Agreement, SAMSUNG hereby grants Licensee a limited, non-exclusive, personal, revocable, non-sub licensable and non-transferable license during the Term to:
 1.	(a) install the SDK on limited number of devices that Licensee owns or controls, for internal use by Licensee or Authorized Users solely for the purpose of developing or testing Applications; and
