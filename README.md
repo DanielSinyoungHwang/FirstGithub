@@ -1,27 +1,39 @@
 # Samsung Digital Health SDK #l
 
 ## SDK LICENSE AGREEMENT ##l
-=====================
-
 **READ CAREFULLY BEFORE USING THE SDK AND AGREEING TO THIS SDK LICENSE AGREEMENT (“AGREEMENT”): THIS AGREEMENT IS A LEGAL AGREEMENT BETWEEN YOU(“LICENSEE”) AND SAMSUNG ELECTRONICS CO., LTD.(“SAMSUNG”) AND IS MADE EFFECTIVE ON THE DATE YOU CLICK ON THE “AGREE” BUTTON (“EFFECTIVE DATE”). LICENSEE AND SAMSUNG MAY BE REFERRED TO AS, EACH A “PARTY”, OR COLLECTIVELY “PARTIES”. BY CLICKING ON THE “AGREE” BUTTON, INSTALLING, COPYING, OR OTHERWISE USING THE SDK, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENTAND REPRESENT AND WARRANT THAT YOU HAVE AUTHORITY OR HAVE BEEN PROVIDED THE AUTHORITY TO BIND THE LICENSEE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT CLICK ON THE “AGREE” BUTTON AND DO NOT INSTALL, COPY, OR USE THE SDK.IN GOOD AND VALUABLE CONSIDERATION, RECEIPT OF WHICH IS HEREBY ACKNOWLEDGED, THE PARTIES HERETO AGREE AS FOLLOWS:
-
 
 ### Definitions
 In this Agreement, the following capitalized terms shall have the meanings below. Any capitalized terms that are not defined herein shall have the meaning as defined in the S Health Partner App Agreement.
+
 "Affiliate" shall mean any corporation or other entity that is controlled by, or is under common control with a party (a corporation or other entity shall be deemed to control another if it owns or controls more than fifty percent (50%) of the voting stock or other ownership interest of the corporation or entity).
+
 "Application" means a software program developed by Licensee for specific use with the SAMSUNG products in compliance with the Documentation and the program requirements and under Licensee’s own trademark and/or brand, including, in respect of such software programs, all bug fixes, enhancements, modifications, new releases, new versions, revisions, supplements, updates and upgrades.
+
 "Applicable Law" or "applicable law" means any applicable constitution, treaty, statute, rule, regulation, ordinance, order, directive, code, interpretation, judgment, decree, injunction, writ, determination, award, permit, license, authorization, requirement or decision of or agreement with or by any legislative, administrative, judicial or other governmental authority.
+
 "Authorized Users" means Licensee’s employees or other authorized contractors who have written and binding agreements with Licensee to protect the unauthorized use and disclosure of SAMSUNG’s and other third party Confidential Information (to the extent they will have access to such Confidential Information).
+
 "Confidential Information" means any and all business, financial, contractual, marketing and/or technical information, in whatever form embodied, which has been or may be disclosed, or to which access is provided, by SAMSUNG to LICENSEE which a reasonable person would consider, from the nature of the information and circumstances of disclosure, to be confidential to SAMSUNG. For the avoidance of doubt, SDK, Samsung Portal, Samsung Device, any sample, mock-up, drawings, documents, materials, UI, or products provided by SAMSUNG shall be considered as SAMSUNG’s Confidential Information.
+
 "Data Security Breach" means, in connection with the Application, (i) the loss or misuse (by any means) of Personal Data; (ii) the inadvertent, unauthorized, and/or unlawful Processing, disclosure, access, alteration, corruption, transfer, sale, rental, destruction, or use of Personal Data; or (iii) any other act or omission that compromises or may compromise the security, confidentiality, or integrity of Personal Data.
+
 "Documentation" means any technical specifications and other specifications or documentation that SAMSUNG may make available or provide to Licensee relating to or for use in connection with the SDK.
+
 "Open Source Software" means any software or software component, module or package that contains, or is derived in any manner (in whole or in part) from, any software that is distributed as free software, open source software or similar licensing or distribution models, including, without limitation, software licensed or distributed under any of the following licenses or distribution models, or licenses or distribution models similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL); (b) the Artistic License (e.g., PERL); (c) the Mozilla Public License; (d) the Netscape Public License; (e) the Sun Community Source License (SCSL); (f) the Sun Industry Standards License (SISL); (g) the BSD License; and (h) the Apache License.
+
 "Personal Data" means information in any media provided by SAMSUNG to Licensee, or collected by Licensee on its own, that identifies or could reasonably be used to identify a natural person, including, without limitation: a person’s first and last name, home or other physical address, telephone number, fax number, email address or other online identifier, Social Security number or other third-party issued identifier (including, but not limited to, state identification number, driver’s license number, or passport number), biometric data, health information, credit card or other financial information (including bank account information), IP address and cookie information, or any other device-specific number or identifier.
+
 "Processing" (including its cognate, “process”) means any operation or set of operations that is performed upon Personal Data, whether or not by automatic means, including, but not limited to, collection, recording, organization, storage, access, adaptation, alteration, retrieval, consultation, use, disclosure, dissemination, making available, alignment, combination, blocking, deleting, erasure, or destruction.
+
 "Published API(s)" means the documented Application Programming Interface(s) contained in the SDK.
+
 "Sample Code" means the software marked as “sample” or delivered in a folder marked “sample” that may be included as a part of the SDK. Sample Code may be in source code or object code format.
+
 "SDK" means Samsung Digital Health SDK, which includes the APIs, applications, documentation, data, files, libraries, materials, sample code, software (source code and object code), and tools provided or made available to Licensee by SAMSUNG pursuant to this Agreement for use in connection with the development of Applications, including any Updates that SAMSUNG may provide or make available. For the purpose of clarity, SDK is SAMSUNG’s proprietary information and software is considered neither as open source nor in the public domain.
+
 "Term" means the term of this Agreement as specified in Clause 1.
+
 "Third Party Software" shall mean any software, computer programming code or accompanying documentation owned by any third party including, but not limited to, any of following:
 1.	(a) any software licensed from a third party, or
 2.	(b) any software placed in the public domain and accessible to anyone without any specific license terms attached there to, or
@@ -29,6 +41,7 @@ In this Agreement, the following capitalized terms shall have the meanings below
 1.	i. the making available of source code, object code and/or accompanying documentation of the software or any modifications to, or derivatives of, such software and/or documentation; or
 2.	ii. the granting of the right to distribute, use, create modifications to, or create derivative works from, such software and/or documentation at no charge or on a royalty-free basis.
 4.	(d) any software licensed under the Academic Free License, Apache Software License, the Artistic License (e.g., PERL); Berkeley Software Distribution License; Eclipse Public License; GNU’s General Public License; GNU’s Lesser/Library GPL; MIT License; the Mozilla Public License; the Python License, the Sleepy Cat license, the Sun Community Source License; or licenses approved by the Free Software Foundation or the Open Source Initiative.
+
 "Updates" means, in respect of the "SDK or any part of the "SDK, bug fixes, enhancements, modifications, new releases, new versions, supplements, updates or, upgrades.
 1.	Term
 This Agreement is effective upon Licensee’s acceptance, by clicking on the “I AGREE” button or signing the signature page of this Agreement, and continues to be effective until terminated by Licensee or SAMSUNG in accordance with Clause 10 (“Term”).
