@@ -36,11 +36,11 @@ In this Agreement, the following capitalized terms shall have the meanings below
 "Term" means the term of this Agreement as specified in Clause 1.
 
 "Third Party Software" shall mean any software, computer programming code or accompanying documentation owned by any third party including, but not limited to, any of following:
-    (a) any software licensed from a third party, or
+- (a) any software licensed from a third party, or
 - (b) any software placed in the public domain and accessible to anyone without any specific license terms attached there to, or
--    (c) any software disclosed or distributed under a license that permits users to use, modify, improve or distribute such software and/or documentation and requires any or all of the following:
-1.	i. the making available of source code, object code and/or accompanying documentation of the software or any modifications to, or derivatives of, such software and/or documentation; or
-2.	ii. the granting of the right to distribute, use, create modifications to, or create derivative works from, such software and/or documentation at no charge or on a royalty-free basis.
+- (c) any software disclosed or distributed under a license that permits users to use, modify, improve or distribute such software and/or documentation and requires any or all of the following:
+    - i. the making available of source code, object code and/or accompanying documentation of the software or any modifications to, or derivatives of, such software and/or documentation; or
+-     ii. the granting of the right to distribute, use, create modifications to, or create derivative works from, such software and/or documentation at no charge or on a royalty-free basis.
 4.	(d) any software licensed under the Academic Free License, Apache Software License, the Artistic License (e.g., PERL); Berkeley Software Distribution License; Eclipse Public License; GNU’s General Public License; GNU’s Lesser/Library GPL; MIT License; the Mozilla Public License; the Python License, the Sleepy Cat license, the Sun Community Source License; or licenses approved by the Free Software Foundation or the Open Source Initiative.
 
 "Updates" means, in respect of the "SDK or any part of the "SDK, bug fixes, enhancements, modifications, new releases, new versions, supplements, updates or, upgrades.
