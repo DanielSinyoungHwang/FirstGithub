@@ -56,13 +56,13 @@ In this Agreement, the following capitalized terms shall have the meanings below
 
 "Updates" means, in respect of the "SDK or any part of the "SDK, bug fixes, enhancements, modifications, new releases, new versions, supplements, updates or, upgrades.
 
-- 1. Term
+- **1. Term**
 This Agreement is effective upon Licensee’s acceptance, by clicking on the “I AGREE” button or signing the signature page of this Agreement, and continues to be effective until terminated by Licensee or SAMSUNG in accordance with Clause 10 (“Term”).
 
-- 2. Relationship with SAMSUNG
+- **2. Relationship with SAMSUNG**
 Licensee understands and agrees that by accepting this SDK, no legal partnership or agency relationship is created between Licensee and SAMSUNG. Neither Licensee nor SAMSUNG is a partner, an agent or has any authority to bind the other. Licensee agrees not to represent otherwise.
 
-- 3. Grant of SDK License and Restrictions
+- **3. Grant of SDK License and Restrictions**
     1.	3.1
 Subject to the provisions of this Agreement, SAMSUNG hereby grants Licensee a limited, non-exclusive, personal, revocable, non-sub licensable and non-transferable license during the Term to:
         1.	(a) install the SDK on limited number of devices that Licensee owns or controls, for internal use by Licensee or Authorized Users solely for the purpose of developing or testing Applications; and
@@ -88,7 +88,7 @@ SAMSUNG has no obligation to provide any maintenance, technical or other support
     11.	3.11
 If the Application is distributed, offered, resold, or licensed ("Distribute") under the white-labelling of a third party, SAMSUNG may object to such Distribution if SAMSUNG deems the Distribution adversely affects SAMSUNG's business. In that case, Licensee shall immediately cease to Distribute the Application and discuss in good faith to find an alternative which should be mutually beneficial to both Licensee and SAMSUNG.
 
-- 4.	Conditions and Requirements
+- **4. Conditions and Requirements**
     1.	4.1 General Conditions and Requirements
 Licensee acknowledges and agrees that the Applications must comply with the conditions and requirements set out below, as modified by SAMSUNG from time to time:
         1. (a) Licensee will comply with all applicable laws and regulations in connection with this Agreement, including without limitation all applicable laws relating to privacy and security of Personal Data Processed by the Licensee, including without limitation the implementation of a written information security program;
@@ -114,7 +114,7 @@ Licensee acknowledges and agrees that the Applications must comply with the cond
         21.	(u) Licensee acknowledges and agrees that in connection with Licensee’s use of the SDK, SAMSUNG may collect and use information about the Application and use of Application. Licensee shall obtain all consents from the users of the Application necessary for SAMSUNG to use the foregoing information for the purpose of improving SDK and for providing services, if any, related to the SDK. For the purpose of clarity, SAMSUNG reserves the right to charge for use of the SDK in the future.
         22.	(v) Where Licensee allegedly or actually breaches this Clause 4subject to SAMSUNG’s interpretation, SAMSUNG has a right to revoke the license granted under this Agreement and/or block access to Published APIs by Applications, at its sole discretion.
 
-- 5. Licensee’s Responsibilities
+- **5. Licensee’s Responsibilities**
     1.	5.1 Licensee represents and warrants to SAMSUNG and agrees that:
         1.	(a) Licensee has the requisite corporate authority to enter into this Agreement and perform its obligations under this Agreement, and this Agreement does not conflict with any other agreement or obligation by which it is bound;
         2.	(b) Licensee is and will be responsible for the Authorized Users’ use of the SDK and their compliance with this Agreement;
@@ -126,7 +126,7 @@ Licensee acknowledges and agrees that the Applications must comply with the cond
         8.	(h) Licensee acknowledges and agrees that Samsung S Health, Samsung appstore, Samsung servers or any other Samsung devices and products are strictly intended for non-medical purposes only, and that S Health is a personal wellness and fitness application solely intended for non-medical purposes that measures, collects and analyzes certain wellness and fitness data to assist users to maintain a healthier lifestyle.
         9.	(i) the Application or the use of such Application, any marketing claim, or any action or omission of Licensee and/or its Affiliates shall not affect or cause the Samsung S Health, Samsung appstore, Samsung servers or any other Samsung devices and products to be considered as a medical device under the Applicable Law.
 
-- 6. Confidentiality and Press Release
+- **6. Confidentiality and Press Release**
     1.	6.1
 Licensee acknowledges and agrees that the SDK (including all test versions of the SDK) constitute "Confidential Information" for the purposes of this Agreement. Notwithstanding the foregoing, Confidential Information does not include information that Licensee can demonstrate by written evidence:: (i) information that is generally and legitimately available to the public through no fault or breach by Licensee, (ii) information that SAMSUNG makes generally made available to the public, (iii) information that Licensee independently develops without use or reliance of any Confidential Information, (iv) information that Licensee lawfully obtains from a third party who has the right to transfer or disclose the information to Licensee without limitation, or (v) any Open Source Software included in the SDK, the licensing terms of which do not contain obligations of confidentiality.
     2.	6.2
@@ -134,7 +134,7 @@ Licensee must protect Confidential Information using a degree of care that is no
     3.	6.3
 Licensee must not issue any press releases or make any other public statements relating to this Agreement, its terms and conditions, or Licensee’s relationship with SAMSUNG without the express prior written approval of SAMSUNG.
 
-- 7. DISCLAIMER OF WARRANTY
+- **7. DISCLAIMER OF WARRANTY**
 SAMSUNG EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTIBILITY, FITNESS FOR A PARTICULAR PUPOSE AND NON-INFRINGEMENT. FURTHER, SAMSUNG DOES NOT REPRESENT OR WARRANT THAT ANY PORTION OF THE SDK IS FREE OF INACCURACIES, ERRORS, BUGS OR INTERRUPTIONS, OR IS RELIABLE, ACCURATE, COMPLETE, OR OTHERWISE VALID. THE SDK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT ANY WARRANTY OF ANY KIND FROM SAMSUNG.
 LICENSEE’S USE OF THE SDK IS AT ITS OWN DISCRETION AND RISK, AND LICENSEE WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM THE USE OF THE SDK INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO LICENSEE’S COMPUTER SYSTEM OR LOSS OF DATA. FOR THE PURPOSE OF CLARITY, THE SAMPLE CODE IS LICENSED “AS-IS” AND LICENSEE BEARS THE RISK OF USING IT. SAMSUNG GIVES NO EXPRESS AND/OR IMPLIED WARRANTIES, GUARANTEE OR CONDITIONS.
 
@@ -149,7 +149,7 @@ Licensee acknowledges that the SDK is not intended to be used in the development
     3.	9.3
 Licensee must not enter into a settlement or like agreement with any third party that affects SAMSUNG's rights or binds SAMSUNG in any way related to or arising from Licensee’s (or any Authorized User’s) use of the SDK without the prior written consent of SAMSUNG.
 
-- 10.Termination
+- **10.Termination**
     1.	10.1 Right to Terminate.
 This Agreement and all rights granted by SAMSUNG hereunder maybe immediately terminated:
         1.	(a) by Licensee if Licensee ceases use of the SDK;
@@ -161,7 +161,7 @@ This Agreement and all rights granted by SAMSUNG hereunder maybe immediately ter
     2.	10.2 Consequences of Termination
 Upon the termination of this Agreement: (a) all rights granted in this Agreement will terminate; (b) Licensee shall promptly stop using the SDK and return the SDK to SAMSUNG or destroy all electronic copies of the SDK and, at SAMSUNG’s request, provide written certification of such destruction to SAMSUNG. The provisions of Clauses 1, 3.2 through 3.11, 4, 5, 6, 7, 8, 9, 10 and 11 will survive the expiration or termination of this Agreement.
 
-- 11. General
+- **11. General**
     1.	11.1 Assignment.
 Licensee may not assign the Agreement, in whole or in part, without SAMSUNG’s prior written consent, and any attempt to do so without such consent shall be void. SAMSUNG may assign this Agreement without the Licensee’s consent. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.
     2.	11.2 Relationship of Between Licensee and SAMSUNG.
