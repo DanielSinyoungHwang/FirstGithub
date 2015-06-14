@@ -7,7 +7,6 @@ If you want to find out more about S Health, please visit S Health Website.
 
 ---
 # Samsung Digital Health SDK
----
 ## Samsung Digital Health SDK 1.0.0
 - Health Data 1.0.0
 - Health Service 1.0.0
@@ -17,9 +16,8 @@ Mar 31, 2015
 
 Samsung Digital Health SDK is composed of Health Data package and S Health Service package.
 
----
-## Health Data Package
-### Health Data Package has the following features:
+### Health Data Package
+#### Health Data Package has the following features:
 
 - **Health Data Store**
 Samsung Digital Health SDK keeps users' health data secure. The health data store handles the service connection and provides APIs to read and write health data.
@@ -30,14 +28,14 @@ You can use predefined data types to use the health data store.
 - **Permissions and User Controls**
 Health data such as steps and exercise is handled only with users' consent and a unified user interface allows users to easily control which data they want to share.
 
-## S Health Service Package
-### S Health Service Package has the following features:
+### S Health Service Package
+#### S Health Service Package has the following features:
 
 - **Tracker Tile Manager**
     The tracker tile manager enables you to post or remove tracker tiles for S health. A tracker tile can consist of your application’s icon, relevant health data, and action button in a form of tile that would be displayed on the main dashboard of S Health. The user has the freedom of enabling as many tracker tiles as he may desire.
 
 ![Tracker Tile Manager](http://img-developer.samsung.com/images/sdktools/health/digital_health_new_img04.jpg)
-
+---
 ## S Health Partnerships
 ### Partner Apps
 Partner apps is an exclusive feature of S Health that allows users to discover engaging health and fitness applications. After integrating Samsung Digital Health SDK, the application needs to be registered to activate developed features and please apply for “Partner apps” on S Health.
@@ -49,8 +47,8 @@ Samsung believes that collaboration with partners will open up great opportuniti
 ### Partner Accessories
 Various health and fitness accessories, equipment and connectivity protocols are supported. If you want to join Partner accessories, please let us know.
 
-
-### S Health Branding Guidelines
+---
+## S Health Branding Guidelines
 We recommend you to keep the branding guidelines when you connect to S Health in your application.
 
 - **Notification for working with S Health**
