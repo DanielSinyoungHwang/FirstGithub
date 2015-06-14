@@ -17,7 +17,10 @@ In this Agreement, the following capitalized terms shall have the meanings below
 
 "Confidential Information" means any and all business, financial, contractual, marketing and/or technical information, in whatever form embodied, which has been or may be disclosed, or to which access is provided, by SAMSUNG to LICENSEE which a reasonable person would consider, from the nature of the information and circumstances of disclosure, to be confidential to SAMSUNG. For the avoidance of doubt, SDK, Samsung Portal, Samsung Device, any sample, mock-up, drawings, documents, materials, UI, or products provided by SAMSUNG shall be considered as SAMSUNG’s Confidential Information.
 
-"Data Security Breach" means, in connection with the Application, (i) the loss or misuse (by any means) of Personal Data; (ii) the inadvertent, unauthorized, and/or unlawful Processing, disclosure, access, alteration, corruption, transfer, sale, rental, destruction, or use of Personal Data; or (iii) any other act or omission that compromises or may compromise the security, confidentiality, or integrity of Personal Data.
+"Data Security Breach" means, in connection with the Application,
+- (i) the loss or misuse (by any means) of Personal Data
+- (ii) the inadvertent, unauthorized, and/or unlawful Processing, disclosure, access, alteration, corruption, transfer, sale, rental, destruction, or use of Personal Data or
+- (iii) any other act or omission that compromises or may compromise the security, confidentiality, or integrity of Personal Data.
 
 "Documentation" means any technical specifications and other specifications or documentation that SAMSUNG may make available or provide to Licensee relating to or for use in connection with the SDK.
 
@@ -52,7 +55,7 @@ In this Agreement, the following capitalized terms shall have the meanings below
 - (d) any software licensed under the Academic Free License, Apache Software License, the Artistic License (e.g., PERL); Berkeley Software Distribution License; Eclipse Public License; GNU’s General Public License; GNU’s Lesser/Library GPL; MIT License; the Mozilla Public License; the Python License, the Sleepy Cat license, the Sun Community Source License; or licenses approved by the Free Software Foundation or the Open Source Initiative.
 
 "Updates" means, in respect of the "SDK or any part of the "SDK, bug fixes, enhancements, modifications, new releases, new versions, supplements, updates or, upgrades.
-1. Term
+- 1. Term
 This Agreement is effective upon Licensee’s acceptance, by clicking on the “I AGREE” button or signing the signature page of this Agreement, and continues to be effective until terminated by Licensee or SAMSUNG in accordance with Clause 10 (“Term”).
 2. Relationship with SAMSUNG
 Licensee understands and agrees that by accepting this SDK, no legal partnership or agency relationship is created between Licensee and SAMSUNG. Neither Licensee nor SAMSUNG is a partner, an agent or has any authority to bind the other. Licensee agrees not to represent otherwise.
