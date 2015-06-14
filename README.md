@@ -14,20 +14,21 @@ If you want to find out more about S Health, please visit S Health Website.
 Mar 31, 2015
 
 ![Structure](http://img-developer.samsung.com/images/sdktools/health/digital_health_new_img01.jpg)
+
 Samsung Digital Health SDK is composed of Health Data package and S Health Service package.
+
 ---
 ## Health Data Package
 ### Health Data Package has the following features:
 
 - **Health Data Store**
-     Samsung Digital Health SDK keeps users' health data secure. The health data store handles the service connection and provides APIs to read and write health data.
+Samsung Digital Health SDK keeps users' health data secure. The health data store handles the service connection and provides APIs to read and write health data.
 
 - **Health Data Type**
-    You can use predefined data types to use the health data store.
+You can use predefined data types to use the health data store.
 
 - **Permissions and User Controls**
-    Health data such as steps and exercise is handled only with users' consent and a unified user interface allows users to easily control which data they want to share.
-
+Health data such as steps and exercise is handled only with users' consent and a unified user interface allows users to easily control which data they want to share.
 
 ## S Health Service Package
 ### S Health Service Package has the following features:
@@ -37,6 +38,34 @@ Samsung Digital Health SDK is composed of Health Data package and S Health Servi
 
 ![Tracker Tile Manager](http://img-developer.samsung.com/images/sdktools/health/digital_health_new_img04.jpg)
 
+## S Health Partnerships
+### Partner Apps
+Partner apps is an exclusive feature of S Health that allows users to discover engaging health and fitness applications. After integrating Samsung Digital Health SDK, the application needs to be registered to activate developed features and please apply for “Partner apps” on S Health.
+
+Samsung believes that collaboration with partners will open up great opportunities and build a digital health eco system.
+
+![Patner Apps](http://img-developer.samsung.com/images/sdktools/health/digital_health_new_img02.jpg)
+
+### Partner Accessories
+Various health and fitness accessories, equipment and connectivity protocols are supported. If you want to join Partner accessories, please let us know.
+
+
+### S Health Branding Guidelines
+We recommend you to keep the branding guidelines when you connect to S Health in your application.
+
+- **Notification for working with S Health**
+If your application works with S Health, notify user with the concrete description when your application is launched.
+
+- **Connection to S Health**
+When you connect to S Health in your application, mark the entry point for S Health connection and explain benefits of S Health when your application connects to S Health.
+
+- **Permission setting for used health data types**
+Samsung Digital Health SDK provides the permission setting UI through permission manager APIs for user to select health data usage for each data type in your application.
+
+- **S Health’s brand name and icon**
+When you connect to S Health from your application, use its brand name as S Health and the official S Health's icon.
+
+---
 ## SDK LICENSE AGREEMENT
 **READ CAREFULLY BEFORE USING THE SDK AND AGREEING TO THIS SDK LICENSE AGREEMENT (“AGREEMENT”): THIS AGREEMENT IS A LEGAL AGREEMENT BETWEEN YOU(“LICENSEE”) AND SAMSUNG ELECTRONICS CO., LTD.(“SAMSUNG”) AND IS MADE EFFECTIVE ON THE DATE YOU CLICK ON THE “AGREE” BUTTON (“EFFECTIVE DATE”). LICENSEE AND SAMSUNG MAY BE REFERRED TO AS, EACH A “PARTY”, OR COLLECTIVELY “PARTIES”. BY CLICKING ON THE “AGREE” BUTTON, INSTALLING, COPYING, OR OTHERWISE USING THE SDK, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENTAND REPRESENT AND WARRANT THAT YOU HAVE AUTHORITY OR HAVE BEEN PROVIDED THE AUTHORITY TO BIND THE LICENSEE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT CLICK ON THE “AGREE” BUTTON AND DO NOT INSTALL, COPY, OR USE THE SDK.IN GOOD AND VALUABLE CONSIDERATION, RECEIPT OF WHICH IS HEREBY ACKNOWLEDGED, THE PARTIES HERETO AGREE AS FOLLOWS:
 
