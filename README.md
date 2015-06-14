@@ -20,20 +20,20 @@ Samsung Digital Health SDK is composed of Health Data package and S Health Servi
 ### Health Data Package has the following features:
 
 - **Health Data Store**
-Samsung Digital Health SDK keeps users' health data secure. The health data store handles the service connection and provides APIs to read and write health data.
+     Samsung Digital Health SDK keeps users' health data secure. The health data store handles the service connection and provides APIs to read and write health data.
 
 - **Health Data Type**
-You can use predefined data types to use the health data store.
+    You can use predefined data types to use the health data store.
 
 - **Permissions and User Controls**
-Health data such as steps and exercise is handled only with users' consent and a unified user interface allows users to easily control which data they want to share.
+    Health data such as steps and exercise is handled only with users' consent and a unified user interface allows users to easily control which data they want to share.
 
 
 ## S Health Service Package
 ### S Health Service Package has the following features:
 
 - **Tracker Tile Manager**
-The tracker tile manager enables you to post or remove tracker tiles for S health. A tracker tile can consist of your application’s icon, relevant health data, and action button in a form of tile that would be displayed on the main dashboard of S Health. The user has the freedom of enabling as many tracker tiles as he may desire.
+    The tracker tile manager enables you to post or remove tracker tiles for S health. A tracker tile can consist of your application’s icon, relevant health data, and action button in a form of tile that would be displayed on the main dashboard of S Health. The user has the freedom of enabling as many tracker tiles as he may desire.
 
 ![Tracker Tile Manager](http://img-developer.samsung.com/images/sdktools/health/digital_health_new_img04.jpg)
 
